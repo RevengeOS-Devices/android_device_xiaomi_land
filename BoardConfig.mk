@@ -243,5 +243,8 @@ WIFI_DRIVER_FW_PATH_AP := "ap"
 WIFI_DRIVER_FW_PATH_STA := "sta"
 WPA_SUPPLICANT_VERSION := VER_0_8_X
 
+# Security patch level
+VENDOR_SECURITY_PATCH := 2017-04-01
+
 # Inherit the proprietary files
 -include vendor/xiaomi/land/BoardConfigVendor.mk
