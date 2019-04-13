@@ -14,6 +14,6 @@
 # limitations under the License.
 #
 
-add_lunch_combo aosp_land-userdebug
-add_lunch_combo aosp_land-user
-add_lunch_combo aosp_land-eng
+add_lunch_combo revengeos_land-userdebug
+add_lunch_combo revengeos_land-user
+add_lunch_combo revengeos_land-eng
